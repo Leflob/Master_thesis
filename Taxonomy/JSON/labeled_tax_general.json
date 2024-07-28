@@ -1,0 +1,196 @@
+{
+    "items": [
+        {
+            "key": "report_as",
+            "hint": "Who has reported the incident?"
+        },
+        {
+            "key": "flight_equipment",
+            "hint": "What kind of flight equipment was used?"
+        },
+        {
+            "key": "flight_type",
+            "hint": "What kind of flight was it?"
+        },
+        {
+            "key": "age",
+            "hint": "How old is the Pilot?"
+        },
+        {
+            "key": "starting_weight",
+            "hint": "What was the starting weight of the Pilot?"
+        },
+        {
+            "key": "gender",
+            "hint": "What is the gender of the Pilot?"
+        },
+        {
+            "key": "type_of_flight_license",
+            "hint": "What type of flight license does the Pilot have?"
+        },
+        {
+            "key": "flies_since",
+            "hint": "How long has the Pilot been flying?"
+        },
+        {
+            "key": "total_nof",
+            "hint": "How many flights has the Pilot done in total?"
+        },
+        {
+            "key": "total_nof_six_months",
+            "hint": "How many flights has the Pilot done in the last six months?"
+        },
+        {
+            "key": "nof_accident_equipment",
+            "hint": "How many accidents has the Pilot had with his equipment?"
+        },
+        {
+            "key": "safety_training",
+            "hint": "What kind of safety training has the Pilot completed?"
+        },
+        {
+            "key": "aircraft_manufacturer",
+            "hint": "What is the manufacturer of the aircraft?"
+        },
+        {
+            "key": "aircraft_model",
+            "hint": "What is the model of the aircraft?"
+        },
+        {
+            "key": "aircraft_size",
+            "hint": "What is the size of the aircraft?"
+        },
+        {
+            "key": "aircraft_classification",
+            "hint": "What is the classification of the aircraft?"
+        },
+        {
+            "key": "aircraft_last_check",
+            "hint": "When was the last check of the aircraft?"
+        },
+        {
+            "key": "reserve_parachute_manufacturer",
+            "hint": "What is the manufacturer of the reserve parachute?"
+        },
+        {
+            "key": "reserve_parachute_model",
+            "hint": "What is the model of the reserve parachute?"
+        },
+        {
+            "key": "reserve_parachute_size",
+            "hint": "What is the size of the reserve parachute?"
+        },
+        {
+            "key": "reserve_parachute_controllable",
+            "hint": "Is the reserve parachute controllable?"
+        },
+        {
+            "key": "reserve_parachute_last_repack",
+            "hint": "When was the last repack of the reserve parachute?"
+        },
+        {
+            "key": "harness_manufacturer",
+            "hint": "What is the manufacturer of the harness?"
+        },
+        {
+            "key": "harness_model",
+            "hint": "What is the model of the harness?"
+        },
+        {
+            "key": "harness_rescue_equipment_container",
+            "hint": "Where is the rescue equipment container located?"
+        },
+        {
+            "key": "harness_back_protection",
+            "hint": "What kind of back protection does the harness have?"
+        },
+        {
+            "key": "harness_impact",
+            "hint": "What kind of impact did the harness have?"
+        },
+        {
+            "key": "accessories_helmet",
+            "hint": "What kind of helmet does the Pilot have?"
+        },
+        {
+            "key": "accessories_helmet_ce_966_tested",
+            "hint": "Has the helmet been tested according to CE 966?"
+        },
+        {
+            "key": "accessories_ankle_high_shoes",
+            "hint": "Does the Pilot wear ankle high shoes?"
+        },
+        {
+            "key": "weather_wind",
+            "hint": "What was the wind speed?"
+        },
+        {
+            "key": "weather_turbulences",
+            "hint": "How strong were the turbulences?"
+        },
+        {
+            "key": "weather_thermic",
+            "hint": "How strong were the thermic conditions?"
+        },
+        {
+            "key": "weather_special_conditions",
+            "hint": "What kind of special weather conditions were there?"
+        },
+        {
+            "key": "flight_phase",
+            "hint": "What kind of flight phase was it?"
+        },
+        {
+            "key": "start_type",
+            "hint": "What kind of start was it?"
+        },
+        {
+            "key": "landing",
+            "hint": "What kind of landing was it?"
+        },
+        {
+            "key": "rescue_tool",
+            "hint": "What kind of rescue tool was used?"
+        },
+        {
+            "key": "event_sequence_triggered_at_m_agl_gnd",
+            "hint": "At what height was the event sequence triggered?"
+        },
+        {
+            "key": "rescue_equipment_opening",
+            "hint": "Was the rescue equipment opening successful?"
+        },
+        {
+            "key": "collision",
+            "hint": "Was there a collision?"
+        },
+        {
+            "key": "paraglider_flight_behavior_f_e_f_c",
+            "hint": "What kind of flight behavior did the paraglider have?"
+        },
+        {
+            "key": "paraglider_flight_behavior_triggered",
+            "hint": "How strong was the flight behavior triggered?"
+        },
+        {
+            "key": "paraglider_flight_behavior_follow_up",
+            "hint": "What kind of follow up flight behavior did the paraglider have?"
+        },
+        {
+            "key": "pilot_error",
+            "hint": "What kind of pilot error was there?"
+        },
+        {
+            "key": "equipment_malfunction",
+            "hint": "What kind of equipment malfunction was there?"
+        },
+        {
+            "key": "injuries_pilot",
+            "hint": "What kind of injuries did the Pilot have?"
+        },
+        {
+            "key": "injured_body_parts_pilot",
+            "hint": "What kind of body parts were injured?"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "report_as": "authority",
+  "flight_equipment": "hang_glider",
+  "location": "Grassau",
+  "flight_phase": "departure",
+  "start_type": "slope_start",
+  "landing": "tree_landing",
+  "rescue_tool": "not_triggered",
+  "paraglider_flight_behavior_f_e_f_c": "got_caught",
+  "pilot_error": "miscalculation_wind_terrain",
+  "injuries_pilot": "seriously_injured",
+  "injured_body_parts_pilot": "hands_arms_shoulder",
+  "id": 24074,
+  "additional_information": "Der Pilot startete von der Startrampe. Unmittelbar nach dem Start lenkte er leicht nach rechts und wollte einen kleinen Waldhügel überfliegen. Mangels ausreichendem Auftrieb flog er das Waldgebiet zu tief an und blieb an den Wipfeln der dortigen Fichten hängen. Ein Bodensturz erfolgte nicht, der HG blieb samt Piloten im Gipfelbereich der Bäume hängen, wo er in einer aufwendigen Bergungsaktion von der Bergwacht Grassau geborgen werden musste. HG Totalschaden",
+  "injured_body_parts_sup_info_pilot": "Bruch des linken Unterarms",
+  "word_counter": 68
+}

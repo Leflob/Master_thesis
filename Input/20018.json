@@ -1,0 +1,21 @@
+{
+  "report_as": "pilot",
+  "flight_equipment": "paraglider",
+  "starting_weight": "82",
+  "aircraft_model": "Iota 2 23",
+  "aircraft_size": "23",
+  "weather_wind": "10_15_kmh",
+  "weather_turbulences": "moderately_turbulent",
+  "weather_thermic": "moderately_3_ms",
+  "flight_phase": "thermal_flight",
+  "start_type": "slope_start",
+  "landing": "normal_landing",
+  "rescue_tool": "not_triggered",
+  "paraglider_flight_behavior_f_e_f_c": "unilateral_collapse",
+  "paraglider_flight_behavior_triggered": "more_500",
+  "paraglider_flight_behavior_follow_up": "twist",
+  "injuries_pilot": "unharmed",
+  "id": 20018,
+  "additional_information": "In der zurückliegenden Saison habe ich einen Iota 2 / 23 (70-88kg) geflogen (Startgewicht 82-83kg, Gurtzeug Lightness 2, über 200 Flüge/Jahr). Dabei zeigte sich, dass er bei Kappenstörungen sehr giftig reagiert. Bei mehreren Klappern kam es zu Verhängern/Leinenüberwürfen, die z.T. nur schwer zu öffnen waren. Einmal schnitt dabei sogar eine Leine in die Eintrittskante (siehe Fotos). Anfang Juli kam es beim Ausfliegen aus der Thermik an der Basis zu einem völlig unerwarteten Totalzerstörer, mit mehrfachem Eintwisten und Spiralsturz. Durch die große Höhe konnte ich Schlimmeres vermeiden. Inzwischen habe ich den Schirm gewechselt. Ob es mit der kleinen Größe, oder den insgesamt anspruchsvollen Bedingungen zusammenhängt, kann ich nicht sagen. Jedenfalls hat sich für mich die anfängliche Begeisterung für diesen Schirm erledigt.",
+  "word_counter": 120
+}

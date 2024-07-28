@@ -1,0 +1,16 @@
+{
+  "report_as": "pilot",
+  "flight_equipment": "hang_glider",
+  "age": 31,
+  "flight_phase": "departure",
+  "start_type": "slope_start",
+  "landing": "tree_landing",
+  "rescue_tool": "not_triggered",
+  "pilot_error": "unsuitable_takeoff_landing_site",
+  "injuries_pilot": "slightly_injured",
+  "injured_body_parts_pilot": "head",
+  "id": 16614,
+  "additional_information": "Ich habe den Anstellwinkel beim Umgreifen während des Startlaufes leicht aufgemacht, und bin infolge dessen nach dem Abheben etwas durchgesackt. Da der Startbereich sehr dicht bewachsen ist, bin ich anschließend mit der seitlichen Unterverspannung und der Basis an Büschen hängen geblieben, was einen Linksdrall des Geräts zur Folge hatte. Ein Ausleiten oder Korrigieren der Flugrichtung war in der Kürze der Zeit nicht mehr möglich; eine Baum\"landung\" somit unvermeidlich. Das Gerät hat sich glücklicherweise mit der Unterverspannung, 10m über dem Boden in einer Buche verfangen. Die von Freunden herbei gerufene Bergwacht Wiesensteig-Geislingen war innerhalb einer halbe Stunde vor Ort und hat die Bergung professionell und zügig vorgenommen. Bis auf eine kleine Schürfwunde am Hals bin ich zum Glück unverletzt vom Baum gekommen.",
+  "injured_body_parts_sup_info_pilot": "Kleine Schürfwunde am Hals",
+  "word_counter": 121
+}

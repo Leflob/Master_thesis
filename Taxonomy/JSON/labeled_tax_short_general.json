@@ -1,0 +1,148 @@
+{
+    "items": [
+        {
+            "key": "report_as"
+        },
+        {
+            "key": "flight_equipment"
+        },
+        {
+            "key": "flight_type"
+        },
+        {
+            "key": "age"
+        },
+        {
+            "key": "starting_weight"
+        },
+        {
+            "key": "gender"
+        },
+        {
+            "key": "type_of_flight_license"
+        },
+        {
+            "key": "flies_since"
+        },
+        {
+            "key": "total_nof"
+        },
+        {
+            "key": "total_nof_six_months"
+        },
+        {
+            "key": "nof_accident_equipment"
+        },
+        {
+            "key": "safety_training"
+        },
+        {
+            "key": "aircraft_manufacturer"
+        },
+        {
+            "key": "aircraft_model"
+        },
+        {
+            "key": "aircraft_size"
+        },
+        {
+            "key": "aircraft_classification"
+        },
+        {
+            "key": "aircraft_last_check"
+        },
+        {
+            "key": "reserve_parachute_manufacturer"
+        },
+        {
+            "key": "reserve_parachute_model"
+        },
+        {
+            "key": "reserve_parachute_size"
+        },
+        {
+            "key": "reserve_parachute_controllable"
+        },
+        {
+            "key": "reserve_parachute_last_repack"
+        },
+        {
+            "key": "harness_manufacturer"
+        },
+        {
+            "key": "harness_model"
+        },
+        {
+            "key": "harness_rescue_equipment_container"
+        },
+        {
+            "key": "harness_back_protection"
+        },
+        {
+            "key": "harness_impact"
+        },
+        {
+            "key": "accessories_helmet"
+        },
+        {
+            "key": "accessories_helmet_ce_966_tested"
+        },
+        {
+            "key": "accessories_ankle_high_shoes"
+        },
+        {
+            "key": "weather_wind"
+        },
+        {
+            "key": "weather_turbulences"
+        },
+        {
+            "key": "weather_thermic"
+        },
+        {
+            "key": "weather_special_conditions"
+        },
+        {
+            "key": "flight_phase"
+        },
+        {
+            "key": "start_type"
+        },
+        {
+            "key": "landing"
+        },
+        {
+            "key": "rescue_tool"
+        },
+        {
+            "key": "event_sequence_triggered_at_m_agl_gnd"
+        },
+        {
+            "key": "rescue_equipment_opening"
+        },
+        {
+            "key": "collision"
+        },
+        {
+            "key": "paraglider_flight_behavior_f_e_f_c"
+        },
+        {
+            "key": "paraglider_flight_behavior_triggered"
+        },
+        {
+            "key": "paraglider_flight_behavior_follow_up"
+        },
+        {
+            "key": "pilot_error"
+        },
+        {
+            "key": "equipment_malfunction"
+        },
+        {
+            "key": "injuries_pilot"
+        },
+        {
+            "key": "injured_body_parts_pilot"
+        }
+    ]
+}

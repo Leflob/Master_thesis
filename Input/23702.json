@@ -1,0 +1,22 @@
+{
+  "report_as": "pilot",
+  "flight_equipment": "paraglider",
+  "date": "28.04.2022",
+  "time": "11:45",
+  "airfield": "Wasserkuppe / Westhang",
+  "flight_type": "local_flight",
+  "harness_impact": "feet_ahead",
+  "weather_turbulences": "moderately_turbulent",
+  "weather_thermic": "moderately_3_ms",
+  "flight_phase": "landing_approach",
+  "start_type": "slope_start",
+  "landing": "top_landing",
+  "rescue_tool": "not_triggered",
+  "collision": "collision_with_paraglider_or_hang_glider",
+  "pilot_error": "miscalculation_wind_terrain",
+  "please_specify_here": "third_party_damage",
+  "id": 23702,
+  "additional_information": "Am 28.04.2022 startete ich gegen 11.45 Uhr am Westhang der Wasserkuppe zu einem Standortflug. Die Windrichtung zur Startzeit kam aus WNW und die Thermik begann sich zu entwickeln, so dass ich relativ schnell an Höhe gewann. Nachdem ich mich eine Weile über dem Startort halten konnte, änderte sich ständig die Windrichtung. Ich entschloss mich deshalb, den Landeanflug einzuleiten und oben auf der Wasserkuppe zu landen. Beim Endanflug, in Bodennähe, änderte sich wieder der Wind, so dass ich die Richtung des Endanfluges korrigieren musste. Andere Piloten hatten sich für den Start vorbereitet, konnten aber wegen dem ständigen Wechsel des Windes nicht starten. Ich bin dann mit den Füßen in den Gleitschirm des Geschädigten eingeflogen und habe diesen an der rechten Seite stark beschädigt. Ein Ausweichen war nicht mehr möglich.",
+  "weather_special_conditions": "Windrichtung wechselhaft",
+  "word_counter": 128
+}

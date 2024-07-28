@@ -1,0 +1,19 @@
+{
+  "report_as": "pilot",
+  "flight_equipment": "paraglider",
+  "airfield": "Zillertal",
+  "location": "Zell am Ziller. Nähe Jausenstation Nasenalm",
+  "country": "AT",
+  "flight_type": "assisted_flying_flight_travel_training",
+  "flight_phase": "thermal_flight",
+  "landing": "normal_landing",
+  "rescue_tool": "not_triggered",
+  "collision": "collision_with_paraglider_or_hang_glider",
+  "paraglider_flight_behavior_f_e_f_c": "stalled_flight",
+  "pilot_error": "spatial_misjudgement",
+  "injuries_pilot": "unharmed",
+  "please_specify_here": "third_party_damage",
+  "id": 24058,
+  "additional_information": "In Rahmen eines Thermik-Trainings der Flugschule Cloudbase in Zillertal kam es am 03.07.2022 zu einem Unfall. Beim Reinkommen in einer Thermik habe ich die Räumliche Situation falsch eingeschätzt und es kam zu einer Kollision zwischen mir und Frau Romana Hinteregger. Frau Hinteregger fand sich bereits in der Thermik unterhalb von mir, und stieg dann mit der Thermik hoch. Meine Gegenreaktion war verzögert. Der Gleitschirm der Marke Skywalk Modell Masala 3 von Romana Hinteregger wurde sehr stark beschädigt. Dank der schnelle Reaktion von Frau Hinteregger ist nichts Schlimmeres passiert. Sie hat rechtzeitig den Retter ausgelöst und ist unverletzt direkt auf einem Weg gelandet. Bei mir wurde das Gürtzeug aber nicht der Gleitschirm beschädigt worden, so dass ich bis zum Landeplatz fliegen konnte.",
+  "word_counter": 122
+}

@@ -1,0 +1,54 @@
+{
+  "report_as": [
+    "pilot",
+    "flight_school_flight_instructor",
+    "other",
+    "authority",
+    "witness",
+    "passenger",
+    "null"
+  ],
+  "weather_wind": [
+    "0_5_kmh",
+    "5_10_kmh",
+    "10_15_kmh",
+    "15_20_kmh",
+    "20_25_kmh",
+    "25_30_kmh",
+    "30_35_kmh",
+    "35_40_kmh",
+    "40_45_kmh",
+    "more_45_kmh"
+  ],
+  "weather_turbulences": [
+    "non_turbulent",
+    "slightly_turbulent",
+    "moderately_turbulent",
+    "strong_turbulent",
+    "very_strong_turbulent"
+  ],
+  "weather_thermic": [
+    "slightly_1_ms",
+    "moderately_3_ms",
+    "strong_5_ms",
+    "very_strong_more_5_ms"
+  ],
+  "weather_special_conditions": [
+    "flight_in_clouds_fog",
+    "foehn",
+    "front_influence",
+    "leeside",
+    "rain_snow",
+    "thundery"
+  ],
+  "flight_phase": [
+    "departure",
+    "extreme_flight_acro_safety_training",
+    "glide",
+    "groundhandling",
+    "landing",
+    "soaring",
+    "start_run",
+    "thermal_flight"
+  ]
+}

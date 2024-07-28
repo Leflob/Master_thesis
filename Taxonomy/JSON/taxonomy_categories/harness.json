@@ -1,0 +1,27 @@
+{
+  "harness_manufacturer": "string",
+  "harness_model": "string",
+  "harness_rescue_equipment_container": [
+    "bottom",
+    "site",
+    "front",
+    "back",
+    "unknown"
+  ],
+  "harness_back_protection": [
+    "airbag",
+    "foam_more_10",
+    "none",
+    "foam_less_10",
+    "foam_airbag",
+    "unknown"
+  ],
+  "harness_impact": [
+    "feet_ahead",
+    "vertical",
+    "lateral",
+    "frontal",
+    "back_ahead",
+    "unknown"
+  ]
+}

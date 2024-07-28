@@ -1,0 +1,13 @@
+{
+  "report_as": "pilot",
+  "flight_phase": "departure",
+  "landing": "off_field_landing",
+  "rescue_tool": "not_triggered",
+  "pilot_error": "preflight_check_takeoff_check",
+  "equipment_malfunction": "harness",
+  "injuries_pilot": "seriously_injured",
+  "injured_body_parts_pilot": "lumbar_spine",
+  "id": 23394,
+  "additional_information": "Der linke Tragegurt hat sich nach ca. 100 m Flugstrecke gelöst. Ich bin aus ca . 40 m auf einer Wiese aufgeschlagen. das Rettungsgerät konnte ich nicht mehr auslösen. Der Tragegurt ist von mir sehr wahrscheinlich nicht richtig im Karabiner eingehängt worden.",
+  "word_counter": 42
+}

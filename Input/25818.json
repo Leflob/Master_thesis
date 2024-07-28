@@ -1,0 +1,20 @@
+{
+  "report_as": "flight_school_flight_instructor",
+  "flight_equipment": "hang_glider",
+  "flight_type": "training_flight",
+  "gender": "m",
+  "type_of_flight_license": "A- Schein Flugauftrag",
+  "flight_phase": "landing",
+  "landing": "off_field_landing",
+  "rescue_tool": "not_triggered",
+  "paraglider_flight_behavior_f_e_f_c": "got_caught",
+  "paraglider_flight_behavior_triggered": "less_5",
+  "paraglider_flight_behavior_follow_up": "frontal_collapse",
+  "pilot_error": "spatial_misjudgement",
+  "injuries_pilot": "seriously_injured",
+  "id": 25818,
+  "additional_information": "Laut Aussage von Zeugen (andere Schüler) war er auf Position noch deutlich zu hoch ca.140m, ging zu früh in den Gegenanflug dann Queranflug in in ca.60m in den Endanflug. Er versuchte durch Fahrtaufnahme die Höhe wegzuziehen. Die Landewiese (ca. 350 m lang) war frisch gemäht (Gras ca. 6 cm) Er flog hinter der Landewiese ins hohe Gras ca. 50-70m (Gras ca. 1,5m). Obwohl die erst Ähren die Basis berührten, flog er noch zu schnell. Die Basis verfing sich im Gras und der Drachen kippte auf die Nase. Er ist durchgependelt und hart auf dem Boden aufgeschlagen. Es war sein 27. Flug in der A- Ausbildung und sein 7. Flug mit Flugauftrag er hatte 17 Flüge im Fluggelände. Er ist ein guter Pilot. Die Häftikkeit des hohen Grases hat ihn trotzdem überrascht.",
+  "weather_special_conditions": "geringes Sinken, leichter Aufwind nach dem Start, einfachen Flugbedingungen für den Ausbildungsstand.",
+  "injured_body_parts_pilot": "ich wurde erst 5 Tage nach dem Unfall über die schwere der Verletzung informiert.\nDer Pilot ging erst von einer schweren Prellung aus. Er war noch 2 Tage im Fluggelände unterwegs, teilweise als Fahrer.",
+  "word_counter": 130
+}

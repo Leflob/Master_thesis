@@ -1,0 +1,16 @@
+{
+  "report_as": "other",
+  "flight_equipment": "paraglider",
+  "gender": "m",
+  "weather_turbulences": "moderately_turbulent",
+  "weather_special_conditions": "front_influence",
+  "weather_further_information": "Front war angekündigt, es zog zu, Hektik am Startplatz, weil jeder noch runter wollte, draußen stieg es großflächig, die Schirme flogen mit angelegten Ohren, teils Rückenwind am Startplatz.",
+  "flight_phase": "departure",
+  "collision": "collision_with_obstacle",
+  "pilot_error": "preflight_check_takeoff_check",
+  "injuries_pilot": "deadly_injured",
+  "id": 20902,
+  "additional_information":"Noch unklar. Lt. Augenzeugin startete der Pilot in Hektik. Nach dem Start zog oder flog der Schirm in einer Linkskurve auf den Hang zu mit deutlich erhöhtem Sinken. Vor der Kollision mit dem Hang gelang es dem Piloten, die Flugrichtung zu ändern, entlang des Hanges. Kurz darauf flog der Pilot aus dem Gesichtsfeld der Zeugin. Am Startplatz hörte man aber noch ein lauten Schrei. Zuerst hielt man es für eine harmlose Baumlandung. Dann kam aber von einem anderen Piloten die Mitteilung, dass sich der Verunfallte nicht mehr rühre. Ersthelfer stellten fest, dass der Pilot mit großer Wucht auf dem Boden aufgekommen sein muss, da sein Gesicht und auch die Beine regelrecht zerschmettert waren.\nDie Ausrüstung wurde nicht zur Verfügung gestellt. \nUnfallursache am Wahscheinlichsten ein Leinenknoten, der den Schirm in die kurve zwang. Absturzursache könnte ein Strömungsabriss wegen zu starker Korrekturen durch den Piloten gewesen sein. Unfallflug war der 1. Flug seit einem Jahrkarl",
+  "injured_body_parts_sup_info_pilot": "Sehr schwere äußere Verletzungen, lt. Ersthelfer ,regelrecht zerschmettert.",
+  "word_counter": 152
+}

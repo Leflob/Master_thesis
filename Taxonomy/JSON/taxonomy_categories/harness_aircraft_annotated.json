@@ -1,0 +1,62 @@
+{
+  "aircraft_manufacturer": {
+    "type": "string",
+    "description": "Manufacturer of the paraglider."
+  },
+  "aircraft_model": {
+    "type": "string",
+    "description": "Model of the paraglider."
+  },
+  "aircraft_size": {
+    "type": "string",
+    "description": "Size of the paraglider."
+  },
+  "aircraft_classification": {
+    "enum": ["en_b", "en_d", "en_a", "en_c"],
+    "description": "Classification of the paraglider."
+  },
+  "aircraft_last_check": {
+    "type": "string",
+    "description": "Last check of the paraglider (mmYYYY)."
+  },
+  "reserve_parachute_manufacturer": {
+    "type": "string",
+    "description": "Manufacturer of the reserve parachute."
+  },
+  "reserve_parachute_model": {
+    "type": "string",
+    "description": "Model of the reserve parachute."
+  },
+  "reserve_parachute_size": {
+    "type": "string",
+    "description": "Size of the reserve parachute."
+  },
+  "reserve_parachute_controllable": {
+    "enum": ["no", "yes"],
+    "description": "Controllability of the reserve parachute."
+  },
+  "reserve_parachute_last_repack": {
+    "type": "number",
+    "description": "Last repack of the reserve parachute."
+  },
+  "harness_manufacturer": {
+    "type": "string",
+    "description": "Manufacturer of the harness."
+  },
+  "harness_model": {
+    "type": "string",
+    "description": "Model of the harness."
+  },
+  "harness_rescue_equipment_container": {
+    "enum": ["bottom", "site", "front", "back"],
+    "description": "Position of the rescue equipment container in the harness."
+  },
+  "harness_back_protection": {
+    "enum": ["airbag", "foam_more_10", "none", "foam_less_10", "foam_airbag"],
+    "description": "Type of back protection in the harness."
+  },
+  "harness_impact": {
+    "enum": ["feet_ahead", "vertical", "lateral", "frontal", "back_ahead"],
+    "description": "Type of impact on the harness."
+  }
+}

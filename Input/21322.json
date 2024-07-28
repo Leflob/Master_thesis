@@ -1,0 +1,20 @@
+{
+  "report_as": "pilot",
+  "flight_equipment": "paraglider",
+  "location": "Wallberg",
+  "country": "DE",
+  "safety_training": "graduated_with_different_pattern",
+  "weather_turbulences": "strong_turbulent",
+  "weather_thermic": "very_strong_more_5_ms",
+  "weather_special_conditions": "leeside",
+  "landing": "tree_landing",
+  "paraglider_flight_behavior_follow_up": "twist",
+  "pilot_error": "miscalculation_wind_terrain",
+  "injuries_pilot": "slightly_injured",
+  "injured_body_parts_pilot": "feet_legs",
+  "id": 21322,
+  "additional_information": "Ich fliege sehr viel am Wallberg, habe aber an diesem Tag die Änderungen von Wetter und Windbedingungen in Kombination mit neuer, ungewohnter Ausrüstung offensichtlich unterschätzt. \n\n30min Flug in ruhigen thermischen Bedingungen, danach spürbar turbulenter. Habe den Flug allerdings nicht abgebrochen, da ich in den letzten Wochen bereits viel in turbulenten Bedingungen geflogen bin. Ich fühlte mich der Situation gewachsen weshalb mich auch punktuelle 6m/s Bärte nicht verunsicherten. Allerdings habe ich dem Faktor \"neuer Schirm + Liegegurtzeug\"  anscheinend zu wenig Beachtung geschenkt. Habe meine Lehren daraus gezogen.\n\nDer Unfallhergang wurde von der Polizei aufgenommen.",
+  "weather_further_information": "Leesituation des Wallbergfluggebiets bei Nord-Ostlage unterschätzt",
+  "injured_body_parts_sup_info_pilot": "Schürfwunden an Waden durch Baumlandung",
+  "word_counter": 93
+}

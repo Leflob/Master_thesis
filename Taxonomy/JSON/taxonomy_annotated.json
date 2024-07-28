@@ -1,0 +1,184 @@
+{
+    "properties": {
+        "report_as": {
+            "enum": ["pilot", "flight_school_flight_instructor", "other", "authority", "witness", "passenger"]
+        },
+        "flight_equipment": {
+            "enum": ["paraglider", "hang_glider", "fixed_wing", "speedflyer_miniwing_foot_launch", "other"]
+        },
+        "date": {
+            "type": "string",
+            "format": "date"
+        },
+        "time": {
+            "type": "string",
+            "format": "time"
+        },
+        "airfield": {
+            "type": "string"
+        },
+        "location": {
+            "type": "string"
+        },
+        "country": {
+            "type": "string",
+            "format": "country code"
+        },
+        "flight_type": {
+            "enum": ["cross_country_flight", "local_flight", "training_flight", "assisted_flying_flight_travel_training", "competition_flight", "passenger_flight", "acro_flight", "safety_training_flight"]
+        },
+        "age": {
+            "type": "number"
+        },
+        "starting_weight": {
+            "type": "number"
+        },
+        "gender": {
+            "enum": ["m", "w", "d"]
+        },
+        "type_of_flight_license": {
+            "type": "string"
+        },
+        "flies_since": {
+            "type": "number"
+        },
+        "total_nof": {
+            "type": "number",
+            "description": "Total number of flights."
+        },
+        "total_nof_six_months": {
+            "type": "number",
+            "description": "Total number of flights in the last six months."
+        },
+        "nof_accident_equipment": {
+            "type": "number",
+            "description": "Number of accidents involving the equipment."
+        },
+        "safety_training": {
+            "enum": ["not_completed", "graduated_with_different_pattern", "graduated_with_accident_pattern"],
+            "description": "Status of safety training."
+        },
+        "aircraft_manufacturer": {
+            "type": "string",
+            "description": "Manufacturer of the aircraft."
+        },
+        "aircraft_model": {
+            "type": "string",
+            "description": "Model of the aircraft."
+        },
+        "aircraft_size": {
+            "type": "string",
+            "description": "Size of the aircraft."
+        },
+        "aircraft_classification": {
+            "enum": ["en_b", "en_d", "en_a", "en_c"]
+        },
+        "aircraft_last_check": {
+            "type": "string"
+        },
+        "reserve_parachute_manufacturer": {
+            "type": "string"
+        },
+        "reserve_parachute_model": {
+            "type": "string"
+        },
+        "reserve_parachute_size": {
+            "type": "string"
+        },
+        "reserve_parachute_controllable": {
+            "enum": ["no", "yes"]
+        },
+        "reserve_parachute_last_repack": {
+            "type": "number"
+        },
+        "harness_manufacturer": {
+            "type": "string"
+        },
+        "harness_model": {
+            "type": "string"
+        },
+        "harness_rescue_equipment_container": {
+            "enum": ["bottom", "site", "front", "back"]
+        },
+        "harness_back_protection": {
+            "enum": ["airbag", "foam_more_10", "none", "foam_less_10", "foam_airbag"],
+            "description": "Type of safety protection."
+        },
+        "harness_impact": {
+            "enum": ["feet_ahead", "vertical", "lateral", "frontal", "back_ahead"],
+            "description": "Impact of the pilot"
+        },
+        "accessories_helmet": {
+            "enum": ["half_shelf_helmet", "integral_helmet"]
+        },
+        "accessories_helmet_ce_966_tested": {
+            "enum": ["yes", "no"]
+        },
+        "accessories_ankle_high_shoes": {
+            "enum": ["yes", "no"]
+        },
+        "weather_wind": {
+            "enum": ["0_5_kmh", "5_10_kmh", "10_15_kmh", "15_20_kmh", "20_25_kmh", "25_30_kmh", "30_35_kmh", "35_40_kmh", "40_45_kmh", "more_45_kmh"]
+        },
+        "weather_turbulences": {
+            "enum": ["non_turbulent", "slightly_turbulent", "moderately_turbulent", "strong_turbulent", "very_strong_turbulent"],
+            "description": "Intensity of turbulence."
+        },
+        "weather_thermic": {
+            "enum": ["slightly_1_ms", "moderately_3_ms", "strong_5_ms", "very_strong_more_5_ms"],
+            "description": "Thermic conditions (upforce and downforce)."
+        },
+        "weather_special_conditions": {
+            "enum": ["flight_in_clouds_fog", "foehn", "front_influence", "leeside", "rain_snow", "thundery"]
+        },
+        "flight_phase": {
+            "enum": ["departure", "extreme_flight_acro_safety_training", "glide", "groundhandling", "landing", "soaring", "start_run", "thermal_flight"]
+        },
+        "start_type": {
+            "enum": ["slope_start", "ul_towing", "winch_tow_launch"]
+        },
+        "landing": {
+            "enum": ["building", "normal_landing", "off_field_landing", "other", "power_line_ropeway_cable", "top_landing", "tree_landing", "water_landing"]
+        },
+        "rescue_tool": {
+            "enum": ["intentionally_triggered", "not_triggered", "unintentionally_triggered"],
+            "description": "Has the rescue equipment been triggered?"
+        },
+        "event_sequence_triggered_at_m_agl_gnd": {
+            "enum": ["less_20", "20_50", "50_70", "70_100", "100_250", "250_500", "more_500"],
+            "description": "The height at which the rescue equipment was opened."
+        },
+        "rescue_equipment_opening": {
+            "enum": ["not_successful_entanglement_with_umbrella_cap", "not_successful_other_reasons", "not_successful_too_little_height", "successful"]
+        },
+        "collision": {
+            "enum": ["collision_with_another_vehicle", "collision_with_obstacle", "collision_with_paraglider_or_hang_glider"]
+        },
+        "paraglider_flight_behavior_f_e_f_c": {
+            "enum": ["unilateral_collapse", "spin", "not_specified_frontal_collapse", "fullstall", "frontal_collapse", "got_caught", "stalled_flight", "steep_spiral", "lines_unclear"],
+            "description": "first unusual flight condition"
+        },
+        "paraglider_flight_behavior_triggered": {
+            "enum": ["less_5", "5_10", "10_20", "20_50", "50_70", "70_100", "100_250", "250_500", "more_500"],
+            "description": "height of the first unusual flight condition"
+        },
+        "paraglider_flight_behavior_follow_up": {
+            "enum": ["fullstall", "frontal_collapse", "got_caught", "one_sided_collapse", "spiral_got_caught", "spin", "stable_frontal_collapse", "stable_stalled_flight", "stable_steep_spiral", "stalled_flight", "steep_spiral", "twist"],
+            "description": "Follow-up reaction of the paraglider."
+        },
+        "pilot_error": {
+            "enum": ["affected", "control_error", "disregard_of_flight_rules", "exuberance", "inadequate_airspace_observation", "inattention", "inexperience", "miscalculation_weather", "miscalculation_wind_terrain", "preflight_check_takeoff_check", "risk_taking", "spatial_misjudgement", "traffic_density", "unsuitable_takeoff_landing_site"]
+        },
+        "equipment_malfunction": {
+            "enum": ["aircraft", "harness", "rescue_tool", "winch_towing_equipment"],
+            "description": "note: (aircraft = paraglider.)"
+        },
+        "injuries_pilot": {
+            "enum": ["deadly_injured", "seriously_injured", "slightly_injured", "unharmed"]
+        },
+        "injured_body_parts_pilot": {
+            "enum": ["basin", "chest", "cervical_spine", "feet_legs", "hands_arms_shoulder", "head", "lumbar_spine", "thoracic_spine", "internal_organs"],
+            "description": "If injured only choose the most severe injury."
+        }
+    }
+}

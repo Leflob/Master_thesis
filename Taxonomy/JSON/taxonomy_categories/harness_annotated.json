@@ -1,0 +1,22 @@
+{
+  "harness_manufacturer": {
+    "type": "string",
+    "description": "Manufacturer of the harness not the paraglider."
+  },
+  "harness_model": {
+    "type": "string",
+    "description": "Model of the harness not the paraglider."
+  },
+  "harness_rescue_equipment_container": {
+    "list": ["bottom", "site", "front", "back"],
+    "description": "Position of the rescue equipment container."
+  },
+  "harness_back_protection": {
+    "list": ["airbag", "foam_more_10", "none", "foam_less_10", "foam_airbag"],
+    "description": "Type of safety protection."
+  },
+  "harness_impact": {
+    "list": ["feet_ahead", "vertical", "lateral", "frontal", "back_ahead"],
+    "description": "Impact of the pilot"
+  }
+}

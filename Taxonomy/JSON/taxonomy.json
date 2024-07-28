@@ -1,0 +1,285 @@
+{
+  "report_as": [
+    "pilot",
+    "flight_school_flight_instructor",
+    "other",
+    "authority",
+    "witness",
+    "passenger",
+    "unknown"
+  ],
+  "flight_equipment": [
+    "paraglider",
+    "hang_glider",
+    "fixed_wing",
+    "speedflyer_miniwing_foot_launch",
+    "other",
+    "unknown"
+  ],
+  "flight_type": [
+    "cross_country_flight",
+    "local_flight",
+    "training_flight",
+    "assisted_flying_flight_travel_training",
+    "competition_flight",
+    "passenger_flight",
+    "acro_flight",
+    "safety_training_flight",
+    "unknown"
+  ],
+  "age": "number",
+  "starting_weight": "number",
+  "gender": [
+    "m",
+    "w",
+    "d",
+    "unknown"
+  ],
+  "type_of_flight_license": "string",
+  "flies_since": "number",
+  "total_nof": "number",
+  "total_nof_six_months": "number",
+  "nof_accident_equipment": "number",
+  "safety_training": [
+    "not_completed",
+    "graduated_with_different_pattern",
+    "graduated_with_accident_pattern",
+    "unknown"
+  ],
+  "aircraft_manufacturer": "string",
+  "aircraft_model": "string",
+  "aircraft_size": "string",
+  "aircraft_classification": [
+    "en_b",
+    "en_d",
+    "en_a",
+    "en_c",
+    "unknown"
+  ],
+  "aircraft_last_check": "mmYYYY",
+  "reserve_parachute_manufacturer": "string",
+  "reserve_parachute_model": "string",
+  "reserve_parachute_size": "string",
+  "reserve_parachute_controllable": [
+    "no",
+    "yes",
+    "unknown"
+  ],
+  "reserve_parachute_last_repack": "number",
+  "harness_manufacturer": "string",
+  "harness_model": "string",
+  "harness_rescue_equipment_container": [
+    "bottom",
+    "site",
+    "front",
+    "back",
+    "unknown"
+  ],
+  "harness_back_protection": [
+    "airbag",
+    "foam_more_10",
+    "none",
+    "foam_less_10",
+    "foam_airbag",
+    "unknown"
+  ],
+  "harness_impact": [
+    "feet_ahead",
+    "vertical",
+    "lateral",
+    "frontal",
+    "back_ahead",
+    "unknown"
+  ],
+  "accessories_helmet": [
+    "half_shelf_helmet",
+    "integral_helmet",
+    "unknown"
+  ],
+  "accessories_helmet_ce_966_tested": [
+    "yes",
+    "no",
+    "unknown"
+  ],
+  "accessories_ankle_high_shoes": [
+    "yes",
+    "no",
+    "unknown"
+  ],
+  "weather_wind": [
+    "0_5_kmh",
+    "5_10_kmh",
+    "10_15_kmh",
+    "15_20_kmh",
+    "20_25_kmh",
+    "25_30_kmh",
+    "30_35_kmh",
+    "35_40_kmh",
+    "40_45_kmh",
+    "more_45_kmh",
+    "unknown"
+  ],
+  "weather_turbulences": [
+    "non_turbulent",
+    "slightly_turbulent",
+    "moderately_turbulent",
+    "strong_turbulent",
+    "very_strong_turbulent",
+    "unknown"
+  ],
+  "weather_thermic": [
+    "slightly_1_ms",
+    "moderately_3_ms",
+    "strong_5_ms",
+    "very_strong_more_5_ms",
+    "unknown"
+  ],
+  "weather_special_conditions": [
+    "flight_in_clouds_fog",
+    "foehn",
+    "front_influence",
+    "leeside",
+    "rain_snow",
+    "thundery",
+    "unknown"
+  ],
+  "flight_phase": [
+    "departure",
+    "extreme_flight_acro_safety_training",
+    "glide",
+    "groundhandling",
+    "landing",
+    "soaring",
+    "start_run",
+    "thermal_flight",
+    "unknown"
+  ],
+  "start_type": [
+    "slope_start",
+    "ul_towing",
+    "winch_tow_launch",
+    "unknown"
+  ],
+  "landing": [
+    "building",
+    "normal_landing",
+    "off_field_landing",
+    "other",
+    "power_line_ropeway_cable",
+    "top_landing",
+    "tree_landing",
+    "water_landing",
+    "unknown"
+  ],
+  "rescue_tool": [
+    "intentionally_triggered",
+    "not_triggered",
+    "unintentionally_triggered",
+    "unknown"
+  ],
+  "event_sequence_triggered_at_m_agl_gnd": [
+    "less_20",
+    "20_50",
+    "50_70",
+    "70_100",
+    "100_250",
+    "250_500",
+    "more_500",
+    "unknown"
+  ],
+  "rescue_equipment_opening": [
+    "not_successful_entanglement_with_umbrella_cap",
+    "not_successful_other_reasons",
+    "not_successful_too_little_height",
+    "successful",
+    "unknown"
+  ],
+  "collision": [
+    "collision_with_another_vehicle",
+    "collision_with_obstacle",
+    "collision_with_paraglider_or_hang_glider",
+    "unknown"
+  ],
+  "paraglider_flight_behavior_f_e_f_c": [
+    "unilateral_collapse",
+    "spin",
+    "not_specified_frontal_collapse",
+    "fullstall",
+    "frontal_collapse",
+    "got_caught",
+    "stalled_flight",
+    "steep_spiral",
+    "lines_unclear",
+    "unknown"
+  ],
+  "paraglider_flight_behavior_triggered": [
+    "less_5",
+    "5_10",
+    "10_20",
+    "20_50",
+    "50_70",
+    "70_100",
+    "100_250",
+    "250_500",
+    "more_500",
+    "unknown"
+  ],
+  "paraglider_flight_behavior_follow_up": [
+    "fullstall",
+    "frontal_collapse",
+    "got_caught",
+    "one_sided_collapse",
+    "spiral_got_caught",
+    "spin",
+    "stable_frontal_collapse",
+    "stable_stalled_flight",
+    "stable_steep_spiral",
+    "stalled_flight",
+    "steep_spiral",
+    "twist",
+    "unknown"
+  ],
+  "pilot_error": [
+    "affected",
+    "control_error",
+    "disregard_of_flight_rules",
+    "exuberance",
+    "inadequate_airspace_observation",
+    "inattention",
+    "inexperience",
+    "miscalculation_weather",
+    "miscalculation_wind_terrain",
+    "preflight_check_takeoff_check",
+    "risk_taking",
+    "spatial_misjudgement",
+    "traffic_density",
+    "unsuitable_takeoff_landing_site",
+    "unknown"
+  ],
+  "equipment_malfunction": [
+    "aircraft",
+    "harness",
+    "rescue_tool",
+    "winch_towing_equipment",
+    "unknown"
+  ],
+  "injuries_pilot": [
+    "deadly_injured",
+    "seriously_injured",
+    "slightly_injured",
+    "unharmed",
+    "unknown"
+  ],
+  "injured_body_parts_pilot": [
+    "basin",
+    "chest",
+    "cervical_spine",
+    "feet_legs",
+    "hands_arms_shoulder",
+    "head",
+    "lumbar_spine",
+    "thoracic_spine",
+    "internal_organs",
+    "unknown"
+  ]
+}

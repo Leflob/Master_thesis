@@ -1,0 +1,18 @@
+{
+  "report_as": "pilot",
+  "flight_equipment": "paraglider",
+  "harness_impact": "vertical",
+  "weather_turbulences": "moderately_turbulent",
+  "weather_thermic": "moderately_3_ms",
+  "flight_phase": "thermal_flight",
+  "landing": "off_field_landing",
+  "rescue_tool": "intentionally_triggered",
+  "rescue_equipment_opening": "successful",
+  "paraglider_flight_behavior_f_e_f_c": "unilateral_collapse",
+  "paraglider_flight_behavior_follow_up": "fullstall",
+  "pilot_error": "traffic_density",
+  "injuries_pilot": "unharmed",
+  "id": 20854,
+  "additional_information": "Ich wurde in einer mäßig starken Thermik während des kreisens von einem anderen Piloten geschnitten, so das ich abrubt aus meinem recht steilen Kreis heraus fliegen musste um eine kollision zu vermeiden. Dabei zog ich die vermutlich die Außenbremse zu stark. Beim herausfallen aus der Thermik kassierte ich einen 50 oder mehr & Klapper, konnte den Schirm nich auf Kurs halte. Er ging auf die Nase und in eine assymetrische Spirale, in der ich sofort den Retter warf. Zum Glück bin ich Butterweich zwischen zwei klei8nen Sträuchern eingelandet. Der andere Pilot flog weiter... Sofort informierte ich Polizei und Bergwacht, deren Hilfe ich dank meiner aufmerksamen Vereinskollegen nicht brauchte. Es ist alles gut gegangen und war sehr Lehrreich für mich.",
+  "word_counter": 117
+}

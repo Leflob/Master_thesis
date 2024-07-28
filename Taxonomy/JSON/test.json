@@ -1,0 +1,12 @@
+{
+  "report_as": "pilot",
+  "flight_equipment": "paraglider",
+  "flight_type": "local_flight",
+  "paraglider_flight_behavior_f_e_f_c": "lines_unclear",
+  "paraglider_flight_behavior_triggered": "less_5",
+  "paraglider_flight_behavior_follow_up": "twist",
+  "pilot_error": "inexperience",
+  "equipment_malfunction": "aircraft",
+  "injuries_pilot": "slightly_injured",
+  "injured_body_parts_pilot": "feet_legs"
+}

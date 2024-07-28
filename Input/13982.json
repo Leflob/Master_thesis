@@ -1,0 +1,17 @@
+{
+  "report_as": "other",
+  "flight_equipment": "paraglider",
+  "flight_type": "training_flight",
+  "weather_turbulences": "moderately_turbulent",
+  "landing": "tree_landing",
+  "rescue_tool": "intentionally_triggered",
+  "rescue_equipment_opening": "successful",
+  "paraglider_flight_behavior_f_e_f_c": "spin",
+  "paraglider_flight_behavior_follow_up": "got_caught",
+  "pilot_error": "control_error",
+  "injuries_pilot": "unharmed",
+  "id": 13982,
+  "additional_information": "Beim Flugmanöver \"Schnelle Acht\" im Rahmen des B-Scheinkurses hatte der Pilot durch einen Steuerfehler einen einseitigen Strömungsabriss. Nach zweifacher Umdrehung öffnete der Schirm mit Verhänger und ist daraufhin in einen Verhängersat übergegangen. Der Pilot öffnete sofort das Rettungsgerät und ist unverletzt im Baum gelandet. Aufgrund der Baumlandung hat der Schirm zwei kleine Risse, das Rettungsgerät wurde zur Überprüfung an den Hersteller geschickt.",
+  "weather_special_conditions": "wechselnde Windbedingungen, thermisch aktiv",
+  "word_counter": 62
+}

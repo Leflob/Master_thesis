@@ -1,0 +1,18 @@
+{
+  "report_as": "authority",
+  "flight_equipment": "paraglider",
+  "airfield": "Startplatz Roßbühl",
+  "harness_impact": "lateral",
+  "flight_phase": "landing_approach",
+  "landing": "top_landing",
+  "rescue_tool": "not_triggered",
+  "paraglider_flight_behavior_f_e_f_c": "fullstall",
+  "paraglider_flight_behavior_triggered": "less_5",
+  "paraglider_flight_behavior_follow_up": "stalled_flight",
+  "pilot_error": "control_error",
+  "injuries_pilot": "seriously_injured",
+  "injured_body_parts_pilot": "lumbar_spine",
+  "id": 24258,
+  "additional_information": "Der Gleitschirmflieger setzte aus Richtung Norden kommend auf dem Start und Landeplatz Roßbühl zur Landung an. Aufgrund eines Pilotenfehlers, Strömungsabriss bei einer Überbremsung, stürzte er aus einer Höhe von ca. 5 m nach hinten auf die Erde. Er prallte mit dem Lendenwirbel und dem Becken halb seitlich auf der Erde auf. Dabei zog er sich einen mehrfachen Beckenbruch, einen 2 bis 3 fachen Lendenwirbelbruch und einen Bruch der linken Hand zu. Er wurde mit dem Rettungshubschrauber ins Klinikum nach Offenburg verbracht und dort stationär aufgenommen. Ein bleibender Schaden ist nicht zu erwarten. Der Gleitschirmpilot gibt auf Nachfragen an, dass es sich bei der Unfallursache einzig und allein um seinen eigenen Pilotenfehler gehandelt hat. Fremdverschulden oder technische Ursachen können ausgeschlossen werden. Zum Unfallzeitpunkt herrschte sonniges Wetter mit guter Sicht. Die Flugbedingungen waren gut.",
+  "word_counter": 130
+}
