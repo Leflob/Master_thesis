@@ -559,11 +559,11 @@ if __name__ == "__main__":
     #region Prompt engineering
 
     # Baseline Testing
-    # prompt_engineering_baseline_run(
-    #     report_id=16594,
-    #     repetitions=1,
-    #     new_document=new_document
-    # )
+    prompt_engineering_baseline_run(
+        report_id=16594,
+        repetitions=1,
+        new_document=new_document
+    )
     # #iterate over all reports given in this array
     # report_array = [15086, 22834, 24058]
     # for report_id in report_array:
